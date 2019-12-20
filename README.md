@@ -5,13 +5,13 @@
 
 Ce dépôt contient le serveur applicatif du projet Enigma de la majeure WebServices.
 
+Ce serveur est développé en php, autour du framework Laravel.
 
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Prérequis et installation
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+[Composer](https://getcomposer.org/download/) 
 
 ## Laravel Sponsors
 
