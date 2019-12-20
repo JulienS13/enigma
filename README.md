@@ -11,9 +11,9 @@ Ce serveur est développé en php, autour du framework Laravel.
 
 ## Prérequis et installation
 
-[Installation Composer](https://getcomposer.org/download/) 
-[Installation PHP](https://www.php.net/manual/fr/install.php)
-[Installation Visual Studio Code](https://code.visualstudio.com/download) - (ou tout autre IDE)
+- **[Installation Composer](https://getcomposer.org/download/)** 
+- **[Installation PHP](https://www.php.net/manual/fr/install.php)**
+- **[Installation Visual Studio Code](https://code.visualstudio.com/download) - (ou tout autre IDE)**
 
 ## Laravel Sponsors
 
