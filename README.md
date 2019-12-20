@@ -27,7 +27,7 @@ Ce serveur est développé en php, autour du framework Laravel.
 ## Architecture et documentation 
 
 - **[Laravel](https://laravel.com/)** 
-- **[Ratchet](http://socketo.me/)"**
+- **[Ratchet](http://socketo.me/)**
 - **[JWT-Auth](https://github.com/tymondesigns/jwt-auth)**
 
 
